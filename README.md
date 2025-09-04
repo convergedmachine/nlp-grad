@@ -74,6 +74,10 @@ This module explores **applied NLP systems and modern large-scale models**.
 ---
 
 ## 📂 Repository Structure
+1 - Algorithms and Applications/ # Core NLP topics
+2 - Computational Linguistics/ # Parsing, semantics, discourse
+3 - Advanced Language Systems/ # MT, QA, Dialogue, LLMs
+codes/ # Hands-on implementations
 
 ---
 
