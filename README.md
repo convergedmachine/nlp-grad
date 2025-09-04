@@ -1,4 +1,4 @@
-# 📘 Advanced Natural Language Processing (For Grads) – Course Syllabus
+# 📘 Advanced Natural Language Processing
 
 <img src="source/mmlab.png" alt="Course Logo" width="25%">
 
