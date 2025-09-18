@@ -33,12 +33,10 @@ This module introduces the **foundations of NLP algorithms** and their practical
   - POS Tagging  
   - Named Entity Recognition (NER)  
   - Sequence Labeling  
-  - Multi-Word Expressions (MWE)
 - **Syntactic and Semantic Structures**  
   - Syntax  
   - Coreference Resolution  
   - Information Extraction (IE, IE2)  
-  - Clustering  
 
 ---
 
