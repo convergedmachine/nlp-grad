@@ -9,38 +9,30 @@ Welcome to the **Natural Language Processing (NLP)** course repository! This rep
 ---
 
 ## 📑 Course Modules
-
 ### 🔹 Module 1: Algorithms and Applications
-
 This module introduces the **core foundations of NLP algorithms** and their practical applications.
 
 * **Words and Dictionaries**
-
   * Words, Comparing, Dictionaries
 * **Statistical Foundations**
-
   * Classification
   * Regression
   * Hypotheses & Non-Parametric Tests
 * **Semantic Representations**
-
   * Vector Semantics
   * Word Embeddings
 * **Deep Learning Models**
-
   * MLP
   * CNN
   * LSTM
   * Attention
 * **Annotation and Resources**
-
   * Annotation Practices
   * WordNet
   * POS Tagging
   * Named Entity Recognition (NER)
   * Sequence Labeling
 * **Syntactic and Semantic Structures**
-
   * Syntax
   * Coreference Resolution
   * Information Extraction (IE, IE2)
@@ -48,19 +40,15 @@ This module introduces the **core foundations of NLP algorithms** and their prac
 ---
 
 ### 🔹 Module 2: Computational Linguistics (Overview)
-
 This module gives a **broad overview** of formal models of language, parsing, and discourse-level concepts.
 
 * **Parsing Basics**
-
   * CFG Parsing
   * Dependency Parsing
 * **Semantics**
-
   * Compositional Semantics
   * Verb Semantics
 * **Discourse and Coherence**
-
   * Discourse Coherence
   * Time & Temporal Representation
   * Coreference and Relations
@@ -68,14 +56,12 @@ This module gives a **broad overview** of formal models of language, parsing, an
 ---
 
 ### 🔹 Module 3: Advanced Language Systems
-
 This module explores **applied NLP systems and modern large-scale models**.
 
 * Machine Translation
 * Question Answering
 * Dialogue Systems
 * **Large Language Models (LLMs)**
-
   * Transformers & BERT & T5
   * Position Encoding & Multi-head Attention
   * Foundations of LLMs
@@ -100,7 +86,6 @@ codes/                             # Hands-on implementations
 ---
 
 ## 🎯 Learning Outcomes
-
 By the end of this course, you will be able to:
 
 * Understand the **theoretical foundations** of NLP.
@@ -111,7 +96,6 @@ By the end of this course, you will be able to:
 ---
 
 ## 🚀 How to Use
-
 1. 📖 Read the **PDF lecture notes** under each module.
 2. 🎥 Review the **slides** for theory and worked examples.
 3. 💻 Explore the **codes/** folder for practical implementations.
@@ -121,7 +105,6 @@ By the end of this course, you will be able to:
 ## ⚖️ License
 
 This course is released under the [MIT License](LICENSE).
-
 It has been adapted and customized from multiple academic resources, including:
 
 * [Berkeley Info 256: Applied Natural Language Processing (2019)](https://github.com/dbamman/anlp19) — David Bamman
