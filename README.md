@@ -39,25 +39,10 @@ This module introduces the **core foundations of NLP algorithms** and their prac
 
 ---
 
-### 🔹 Module 2: Computational Linguistics (Overview)
-This module gives a **broad overview** of formal models of language, parsing, and discourse-level concepts.
-
-* **Parsing Basics**
-  * CFG Parsing
-  * Dependency Parsing
-* **Semantics**
-  * Compositional Semantics
-  * Verb Semantics
-* **Discourse and Coherence**
-  * Discourse Coherence
-  * Time & Temporal Representation
-  * Coreference and Relations
-
----
-
-### 🔹 Module 3: Advanced Language Systems
+### 🔹 Module 2: Advanced Language Systems
 This module explores **applied NLP systems and modern large-scale models**.
 
+* Hyperparameter Optimization
 * Machine Translation
 * Question Answering
 * Dialogue Systems
@@ -78,8 +63,7 @@ This module explores **applied NLP systems and modern large-scale models**.
 
 ```bash
 M1 - Algorithms and Applications/   # Core NLP topics
-M2 - Computational Linguistics/     # Overview of parsing & semantics
-M3 - Advanced Language Systems/     # MT, QA, Dialogue, LLMs
+M2 - Advanced Language Systems/     # MT, QA, Dialogue, LLMs
 codes/                             # Hands-on implementations
 ```
 
